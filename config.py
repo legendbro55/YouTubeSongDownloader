@@ -1,4 +1,4 @@
 class Config:
-    API_ID = ""  # 🤖 Same As APP_ID. Get It From My.telegram.org.
-    API_HASH = "" # 🤖 Get It From My.telegram.org.
-    BOT_TOKEN = "" # 🤖 Get It From @BotFather (Telegram) By Sending /newbot Command.
+    API_ID = ""  # 🤖 16267784
+    API_HASH = "" # 🤖 b29707434744713a3dad070bda43d856
+    BOT_TOKEN = "" # 🤖 5458034560:AAEWUHI6Swy6GGPJiPjcwwQgoYWRXcztRag
